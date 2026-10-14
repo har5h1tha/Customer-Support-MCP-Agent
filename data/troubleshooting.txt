@@ -1,0 +1,38 @@
+Issue: Account Locked
+
+An account may be temporarily locked after five consecutive
+failed login attempts.
+
+Resolution:
+Wait 15 minutes before attempting to log in again.
+If the account remains locked, contact the support team.
+
+Issue: Password Reset
+
+Users can reset forgotten passwords by selecting
+the Forgot Password option on the login page.
+
+A password reset link will be sent to their registered
+email address. The link expires after 15 minutes.
+
+Issue: Application Crashing
+
+If the application crashes during startup, restart it
+and check whether the application is running the latest version.
+
+If the issue persists, collect the error logs and contact
+the technical support team.
+
+Issue: Payment Failure
+
+If a payment fails, check the payment status before
+attempting another transaction.
+
+If the amount has been deducted but the payment remains
+unsuccessful, contact support with the transaction reference.
+
+Issue: Account Recovery
+
+Users who cannot access their registered email address
+must contact customer support for identity verification
+and account recovery assistance.
